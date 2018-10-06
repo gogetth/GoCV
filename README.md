@@ -8,6 +8,10 @@ https://gocv.io/getting-started/
 
 ---
 ## Test Example GoCV
+```
+git clone https://github.com/gogetth/GoCV.git
+cd GoCV
+```
 
 * Hello Video
 
@@ -15,7 +19,7 @@ https://gocv.io/getting-started/
 
 * Face Detect
 
-        go run facedetect.go 0 haarcascade_frontalface_default.xml
+        go run facedetect.go 0 data/haarcascade_frontalface_default.xml
 
 ---
 ## Ref. [GoCV](https://gocv.io/)
